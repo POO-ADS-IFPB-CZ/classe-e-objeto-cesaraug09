@@ -1,4 +1,4 @@
-## Exercícios - Classe e objeto!
+## Exercícios - Classe e objeto! <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" />
 
 - Questão 1:
   - 
